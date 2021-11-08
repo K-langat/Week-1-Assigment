@@ -1,0 +1,70 @@
+
+body{
+    
+    background-image: url("https://media.istockphoto.com/photos/wave-formation-of-the-adriatic-sea-picture-id1222233279?s=612x612");
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+    }
+h1{
+   
+   text-align:left;
+    
+}
+.Sign-up-form
+{
+    width: 300px;
+    box-shadow: antiquewhite;
+    background-color: #fff;
+    padding: 20px;
+    margin: 8% auto 0%;
+    text-align: center;
+}
+.Sign-up-form h1
+{
+  color:#00acee;
+  margin-bottom: 30px;
+}
+.input-box
+{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10pax 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+}
+button
+{
+    color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10pax 0;
+    width: 100%;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.signup
+{
+    background-color:#1c8adb;
+}
+.twitterbutton
+{
+    background-color: #21afde;
+}
+hr
+{
+    margin-top: 20px;
+    width: 80%;
+}
+.OR
+{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 8px;
+}
+img
+{
+    width: 70px;
+  }

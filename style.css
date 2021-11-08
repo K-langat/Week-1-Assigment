@@ -1,0 +1,43 @@
+h1{
+    color: rgb(1, 252, 76);
+    text-indent: 40%;
+    text-underline-position: below;
+    background-color:mistyrose; }
+h2{
+color: cadetblue;
+background-color: mistyrose;
+}
+img {
+    width: 50%;
+    height: 400px;
+    
+  }
+#menu{
+    background-color: olivedrab;
+    text-underline-position: below;
+}
+span{
+    color: orangered;
+}.sidebar {
+    width: 30%;
+    float: right;
+    }
+body{
+    background-color: rgb(187, 182, 187);
+}
+.output {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+label {
+    font-size: .8rem;
+}
+
+label,
+input[type='image'] {
+    margin-top: 1rem;
+}
+
+input[type='image'] {
+    width: 80px;
+}
